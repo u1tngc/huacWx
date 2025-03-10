@@ -1,0 +1,8 @@
+streamlit==1.24.0
+pypdf
+reportlab
+pillow
+selenium
+webdriver-manager
+requests
+PyPDF2
